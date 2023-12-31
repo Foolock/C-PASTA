@@ -1,0 +1,24 @@
+before partition, graph size: 25
+after GDCA partition, graph size: 25
+dependency amount: 26
+GDCA_par_runtime: 0
+CPU_Taskflow_par_runtime: 0
+CPU_Async_par_runtime: 0
+_vivek_btask_rebuild_time: 3
+_vivek_btask_runtime: 167
+before partition, graph size: 25
+after GDCA partition, graph size: 25
+dependency amount: 26
+GDCA_par_runtime: 0
+CPU_Taskflow_par_runtime: 0
+CPU_Async_par_runtime: 0
+_vivek_btask_rebuild_time: 4
+_vivek_btask_runtime: 109
+before partition, graph size: 25
+after GDCA partition, graph size: 25
+dependency amount: 26
+GDCA_par_runtime: 1
+CPU_Taskflow_par_runtime: 0
+CPU_Async_par_runtime: 0
+_vivek_btask_rebuild_time: 5
+_vivek_btask_runtime: 85

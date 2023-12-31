@@ -1,0 +1,21 @@
+before partition, graph size: 397809
+after GDCA partition, graph size: 79562
+GDCA_par_runtime: 59306
+CPU_Taskflow_par_runtime: 0
+CPU_Threadpool_par_runtime: 0
+_vivek_btask_rebuild_time: 21529
+_vivek_btask_runtime: 22513
+before partition, graph size: 397809
+after GDCA partition, graph size: 79562
+GDCA_par_runtime: 59219
+CPU_Taskflow_par_runtime: 0
+CPU_Threadpool_par_runtime: 0
+_vivek_btask_rebuild_time: 21546
+_vivek_btask_runtime: 23063
+before partition, graph size: 397809
+after GDCA partition, graph size: 79562
+GDCA_par_runtime: 59335
+CPU_Taskflow_par_runtime: 0
+CPU_Threadpool_par_runtime: 0
+_vivek_btask_rebuild_time: 22373
+_vivek_btask_runtime: 22631
